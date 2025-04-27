@@ -1,0 +1,1220 @@
+
+{
+  "role": "WebArea",
+  "name": "Samsung Galaxy S Series Mobiles Online | Samsung India",
+  "children": [
+    {
+      "role": "link",
+      "name": "Skip to content"
+    },
+    {
+      "role": "text",
+      "name": "Samsung and Cookies"
+    },
+    {
+      "role": "text",
+      "name": "This site uses cookies. By clicking ACCEPT or continuing to browse the site you are agreeing to our use of cookies. "
+    },
+    {
+      "role": "link",
+      "name": "Find out more here"
+    },
+    {
+      "role": "link",
+      "name": "Accept"
+    },
+    {
+      "role": "button",
+      "name": "close"
+    },
+    {
+      "role": "link",
+      "name": "Samsung"
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitem",
+          "name": "Shop",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "Mobile",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "TV & AV",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "Appliances",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "Computing & Displays",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "Accessories"
+        },
+        {
+          "role": "menuitem",
+          "name": "SmartThings"
+        },
+        {
+          "role": "menuitem",
+          "name": "AI",
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitem",
+          "name": "Support",
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitem",
+          "name": "For Business: Open in a New Window"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Search Search",
+      "haspopup": "menu"
+    },
+    {
+      "role": "button",
+      "name": "Cart"
+    },
+    {
+      "role": "button",
+      "name": "Manage Account",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Mobile"
+    },
+    {
+      "role": "button",
+      "name": "Galaxy Smartphone",
+      "haspopup": "listbox"
+    },
+    {
+      "role": "button",
+      "name": "Galaxy S",
+      "haspopup": "listbox"
+    },
+    {
+      "role": "heading",
+      "name": "Galaxy S",
+      "level": 1
+    },
+    {
+      "role": "link",
+      "name": "Galaxy S Galaxy S"
+    },
+    {
+      "role": "link",
+      "name": "Galaxy Z Galaxy Z"
+    },
+    {
+      "role": "link",
+      "name": "Galaxy A Galaxy A"
+    },
+    {
+      "role": "link",
+      "name": "Galaxy M Galaxy M"
+    },
+    {
+      "role": "link",
+      "name": "Galaxy F Galaxy F"
+    },
+    {
+      "role": "link",
+      "name": "Compare Compare"
+    },
+    {
+      "role": "button",
+      "name": "Previous prev"
+    },
+    {
+      "role": "button",
+      "name": "Next next"
+    },
+    {
+      "role": "text",
+      "name": "Filters"
+    },
+    {
+      "role": "button",
+      "name": "Sort Online Availability",
+      "haspopup": "listbox"
+    },
+    {
+      "role": "button",
+      "name": "PRODUCT RANGE",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Galaxy Z",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Galaxy Z"
+    },
+    {
+      "role": "checkbox",
+      "name": "Galaxy S",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Galaxy S"
+    },
+    {
+      "role": "checkbox",
+      "name": "Galaxy A",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Galaxy A"
+    },
+    {
+      "role": "checkbox",
+      "name": "Galaxy M",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Galaxy M"
+    },
+    {
+      "role": "checkbox",
+      "name": "Galaxy F",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Galaxy F"
+    },
+    {
+      "role": "button",
+      "name": "STORAGE",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "64 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "64 GB"
+    },
+    {
+      "role": "checkbox",
+      "name": "128 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "128 GB"
+    },
+    {
+      "role": "checkbox",
+      "name": "256 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "256 GB"
+    },
+    {
+      "role": "checkbox",
+      "name": "512 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "512 GB"
+    },
+    {
+      "role": "checkbox",
+      "name": "1 TB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "1 TB"
+    },
+    {
+      "role": "button",
+      "name": "PRICE",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Up to ₹ 10000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Up to ₹ 10000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 10001~₹ 15000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 10001~₹ 15000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 15001~₹ 20000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 15001~₹ 20000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 20001~₹ 25000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 20001~₹ 25000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 25001~₹ 30000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 25001~₹ 30000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 30001~₹ 35000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 30001~₹ 35000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 35001~₹ 40000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 35001~₹ 40000"
+    },
+    {
+      "role": "checkbox",
+      "name": "₹ 40001~₹ 50000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "₹ 40001~₹ 50000"
+    },
+    {
+      "role": "checkbox",
+      "name": "Above ₹ 50000",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Above ₹ 50000"
+    },
+    {
+      "role": "button",
+      "name": "DISPLAY SIZE",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "15.24 cm and above",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "15.24 cm and above"
+    },
+    {
+      "role": "checkbox",
+      "name": "Below 15.24 cm",
+      "disabled": true,
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Below 15.24 cm"
+    },
+    {
+      "role": "button",
+      "name": "FEATURES",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "4G",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "4G"
+    },
+    {
+      "role": "checkbox",
+      "name": "5G",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "5G"
+    },
+    {
+      "role": "checkbox",
+      "name": "Foldable Phones",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Foldable Phones"
+    },
+    {
+      "role": "checkbox",
+      "name": "Flip Phones",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Flip Phones"
+    },
+    {
+      "role": "checkbox",
+      "name": "2-Day Battery",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "2-Day Battery"
+    },
+    {
+      "role": "checkbox",
+      "name": "Fast Charging",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Fast Charging"
+    },
+    {
+      "role": "checkbox",
+      "name": "Camera with OIS",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Camera with OIS"
+    },
+    {
+      "role": "checkbox",
+      "name": "Dual Camera",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Dual Camera"
+    },
+    {
+      "role": "checkbox",
+      "name": "Triple Camera",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Triple Camera"
+    },
+    {
+      "role": "button",
+      "name": "View more"
+    },
+    {
+      "role": "button",
+      "name": "AVAILABILITY",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Available to order",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Available to order"
+    },
+    {
+      "role": "button",
+      "name": "CAMERA",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Up to 32 MP",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Up to 32 MP"
+    },
+    {
+      "role": "checkbox",
+      "name": "32 MP~48 MP",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "32 MP~48 MP"
+    },
+    {
+      "role": "checkbox",
+      "name": "50 MP~63 MP",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "50 MP~63 MP"
+    },
+    {
+      "role": "checkbox",
+      "name": "64 MP~107 MP",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "64 MP~107 MP"
+    },
+    {
+      "role": "checkbox",
+      "name": "108 MP~199 MP",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "108 MP~199 MP"
+    },
+    {
+      "role": "checkbox",
+      "name": "200 MP~Above",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "200 MP~Above"
+    },
+    {
+      "role": "button",
+      "name": "MEMORY",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "8 GB and above",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "8 GB and above"
+    },
+    {
+      "role": "checkbox",
+      "name": "6 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "6 GB"
+    },
+    {
+      "role": "checkbox",
+      "name": "4 GB",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "4 GB"
+    },
+    {
+      "role": "button",
+      "name": "PROCESSOR BRAND",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Snapdragon",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Snapdragon"
+    },
+    {
+      "role": "checkbox",
+      "name": "Exynos",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Exynos"
+    },
+    {
+      "role": "checkbox",
+      "name": "MediaTek Dimensity",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "MediaTek Dimensity"
+    },
+    {
+      "role": "button",
+      "name": "BATTERY",
+      "expanded": true
+    },
+    {
+      "role": "checkbox",
+      "name": "Up to 4999 mAh",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "Up to 4999 mAh"
+    },
+    {
+      "role": "checkbox",
+      "name": "5000 - 5999 mAh",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "5000 - 5999 mAh"
+    },
+    {
+      "role": "checkbox",
+      "name": "6000 mAh and above",
+      "checked": false
+    },
+    {
+      "role": "text",
+      "name": "6000 mAh and above"
+    },
+    {
+      "role": "button",
+      "name": "View more"
+    },
+    {
+      "role": "text",
+      "name": "1"
+    },
+    {
+      "role": "text",
+      "name": "2"
+    },
+    {
+      "role": "text",
+      "name": "3"
+    },
+    {
+      "role": "heading",
+      "name": "You might also like",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "Galaxy Buds3 Pro"
+    },
+    {
+      "role": "text",
+      "name": "₹ 19999.00"
+    },
+    {
+      "role": "text",
+      "name": "MRP (Inclusive of all taxes) "
+    },
+    {
+      "role": "text",
+      "name": "Original Price :"
+    },
+    {
+      "role": "text",
+      "name": "₹ 24999.00"
+    },
+    {
+      "role": "text",
+      "name": "Save Price :"
+    },
+    {
+      "role": "text",
+      "name": "Save ₹5000.00"
+    },
+    {
+      "role": "button",
+      "name": "No Cost EMI starts from ₹ 1405.45/ month."
+    },
+    {
+      "role": "link",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "45 W Type-C Travel Adaptor with Cable"
+    },
+    {
+      "role": "text",
+      "name": "₹ 3499.00"
+    },
+    {
+      "role": "text",
+      "name": "MRP (Inclusive of all taxes) "
+    },
+    {
+      "role": "text",
+      "name": "Original Price :"
+    },
+    {
+      "role": "text",
+      "name": "₹ 3799.00"
+    },
+    {
+      "role": "text",
+      "name": "Save Price :"
+    },
+    {
+      "role": "text",
+      "name": "Save ₹300.00"
+    },
+    {
+      "role": "link",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "Galaxy S25 Ultra Silicone Case"
+    },
+    {
+      "role": "text",
+      "name": "₹ 2499.00"
+    },
+    {
+      "role": "link",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "Galaxy S25 Ultra Kindsuit Case"
+    },
+    {
+      "role": "text",
+      "name": "₹ 4999.00"
+    },
+    {
+      "role": "link",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "Galaxy S24 Ultra"
+    },
+    {
+      "role": "text",
+      "name": "₹ 119999.00"
+    },
+    {
+      "role": "text",
+      "name": "MRP (Inclusive of all taxes) "
+    },
+    {
+      "role": "text",
+      "name": "Original Price :"
+    },
+    {
+      "role": "text",
+      "name": "₹ 134999.00"
+    },
+    {
+      "role": "text",
+      "name": "Save Price :"
+    },
+    {
+      "role": "text",
+      "name": "Save ₹15000.00"
+    },
+    {
+      "role": "button",
+      "name": "No Cost EMI starts from ₹ 9495.06/ month."
+    },
+    {
+      "role": "button",
+      "name": "Previous prev"
+    },
+    {
+      "role": "button",
+      "name": "Next next"
+    },
+    {
+      "role": "text",
+      "name": "* Galaxy S21 series is 5G ready. Compatibility dependent upon 5G network availability in India."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "* Network : The bandwidths supported by the device may vary depending on the region or service provider."
+    },
+    {
+      "role": "text",
+      "name": "* Battery: Actual battery life varies by network environment, features and apps used, frequency of calls and messages, number of times charged, and many other factors."
+    },
+    {
+      "role": "text",
+      "name": "* User Available Memory: Actual user memory will vary depending on the operator and may change after software upgrades are performed."
+    },
+    {
+      "role": "text",
+      "name": "*Images shown here are for representational purpose only, actual may vary. All features, specifications and prices are subject to change without prior notice. Model availability may vary from location to location."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "* Network : The bandwidths supported by the device may vary depending on the region or service provider."
+    },
+    {
+      "role": "text",
+      "name": "* Battery: Actual battery life varies by network environment, features and apps used, frequency of calls and messages, number of times charged, and many other factors."
+    },
+    {
+      "role": "text",
+      "name": "* User Available Memory: Actual user memory will vary depending on the operator and may change after software upgrades are performed."
+    },
+    {
+      "role": "link",
+      "name": "Home"
+    },
+    {
+      "role": "link",
+      "name": "Mobile"
+    },
+    {
+      "role": "link",
+      "name": "Smartphones"
+    },
+    {
+      "role": "text",
+      "name": "Galaxy S"
+    },
+    {
+      "role": "text",
+      "name": "Footer Navigation"
+    },
+    {
+      "role": "text",
+      "name": "Product & Service"
+    },
+    {
+      "role": "link",
+      "name": "Smartphones Smartphones"
+    },
+    {
+      "role": "link",
+      "name": "Tablets Tablets"
+    },
+    {
+      "role": "link",
+      "name": "Audio Sound Audio Sound"
+    },
+    {
+      "role": "link",
+      "name": "Watches Watches"
+    },
+    {
+      "role": "link",
+      "name": "Smart Switch Smart Switch"
+    },
+    {
+      "role": "link",
+      "name": "Mobile Accessories Mobile Accessories"
+    },
+    {
+      "role": "link",
+      "name": "TVs TVs"
+    },
+    {
+      "role": "link",
+      "name": "Sound Devices Sound Devices"
+    },
+    {
+      "role": "link",
+      "name": "Refrigerators Refrigerators"
+    },
+    {
+      "role": "link",
+      "name": "Laundry Laundry"
+    },
+    {
+      "role": "link",
+      "name": "Air Solutions Air Solutions"
+    },
+    {
+      "role": "link",
+      "name": "Cooking Appliances Cooking Appliances"
+    },
+    {
+      "role": "link",
+      "name": "Monitors Monitors"
+    },
+    {
+      "role": "link",
+      "name": "Memory Storage Memory Storage"
+    },
+    {
+      "role": "text",
+      "name": "Shop"
+    },
+    {
+      "role": "link",
+      "name": "FAQs FAQs"
+    },
+    {
+      "role": "link",
+      "name": "Contact Us Contact Us"
+    },
+    {
+      "role": "link",
+      "name": "Welcome Voucher Welcome Voucher"
+    },
+    {
+      "role": "link",
+      "name": "Samsung Referral Advantage Samsung Referral Advantage"
+    },
+    {
+      "role": "link",
+      "name": "Samsung Student Advantage Samsung Student Advantage"
+    },
+    {
+      "role": "link",
+      "name": "Defence Purchase Program Defence Purchase Program"
+    },
+    {
+      "role": "link",
+      "name": "Corporate Employee Program Corporate Employee Program"
+    },
+    {
+      "role": "link",
+      "name": "Corporate Bulk Purchase Corporate Bulk Purchase"
+    },
+    {
+      "role": "link",
+      "name": "Samsung Experience Store Samsung Experience Store"
+    },
+    {
+      "role": "link",
+      "name": "Store Locator Store Locator"
+    },
+    {
+      "role": "link",
+      "name": "Smart Club Smart Club"
+    },
+    {
+      "role": "link",
+      "name": " Terms of Use Terms of Use"
+    },
+    {
+      "role": "link",
+      "name": "Order Grievance Redressal Order Grievance Redressal"
+    },
+    {
+      "role": "link",
+      "name": "Explore Explore"
+    },
+    {
+      "role": "text",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "WhatsApp Us WhatsApp Us : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Sign Language Sign Language : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Email Us Email Us : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Call Us Call Us"
+    },
+    {
+      "role": "link",
+      "name": "Email the CEO Email the CEO"
+    },
+    {
+      "role": "link",
+      "name": "Community Community : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Product Registration Product Registration"
+    },
+    {
+      "role": "link",
+      "name": "Track Repair Track Repair"
+    },
+    {
+      "role": "link",
+      "name": "Service Centre Service Centre"
+    },
+    {
+      "role": "button",
+      "name": "Share Your Opinion"
+    },
+    {
+      "role": "link",
+      "name": "Chat with us Chat with us : Open in a New Window"
+    },
+    {
+      "role": "text",
+      "name": "Account & Community"
+    },
+    {
+      "role": "link",
+      "name": "My Page My Page"
+    },
+    {
+      "role": "link",
+      "name": "My Products My Products"
+    },
+    {
+      "role": "link",
+      "name": "Orders Orders"
+    },
+    {
+      "role": "link",
+      "name": "Wishlist Wishlist"
+    },
+    {
+      "role": "link",
+      "name": "Vouchers Vouchers"
+    },
+    {
+      "role": "link",
+      "name": "My Referrals My Referrals"
+    },
+    {
+      "role": "link",
+      "name": "Service Service"
+    },
+    {
+      "role": "link",
+      "name": "Community Community"
+    },
+    {
+      "role": "text",
+      "name": "Sustainability"
+    },
+    {
+      "role": "link",
+      "name": "Environment Environment"
+    },
+    {
+      "role": "link",
+      "name": "Security & Privacy Security & Privacy"
+    },
+    {
+      "role": "link",
+      "name": "Accessibility Accessibility"
+    },
+    {
+      "role": "link",
+      "name": "Diversity · Equity · Inclusion Diversity & Inclusion"
+    },
+    {
+      "role": "link",
+      "name": "Corporate Citizenship Corporate Citizenship : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Corporate Sustainability Corporate Sustainability : Open in a New Window"
+    },
+    {
+      "role": "text",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Company Info Company Info"
+    },
+    {
+      "role": "link",
+      "name": "Business Area Business Area"
+    },
+    {
+      "role": "link",
+      "name": "Brand Identity Brand Identity"
+    },
+    {
+      "role": "link",
+      "name": "Careers Careers"
+    },
+    {
+      "role": "link",
+      "name": "Investor Relations Investor Relations : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Newsroom Newsroom : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Ethics Ethics"
+    },
+    {
+      "role": "link",
+      "name": "Samsung Design  Samsung Design  : Open in a New Window"
+    },
+    {
+      "role": "text",
+      "name": "Copyright ⓒ 1995-2025 SAMSUNG All Rights reserved."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Please dispose of e-waste and plastic waste responsibly."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "For more information or e-waste pick up, please call 1800 5 7267864 or "
+    },
+    {
+      "role": "link",
+      "name": "click here"
+    },
+    {
+      "role": "text",
+      "name": " for more details."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Registered Office Address: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Corporate Identification Number (CIN): U31900DL1995PTC071387"
+    },
+    {
+      "role": "link",
+      "name": "Choose your location or language"
+    },
+    {
+      "role": "link",
+      "name": "Privacy"
+    },
+    {
+      "role": "link",
+      "name": "Legal"
+    },
+    {
+      "role": "link",
+      "name": "CSR Policy"
+    },
+    {
+      "role": "link",
+      "name": "Sitemap"
+    },
+    {
+      "role": "text",
+      "name": "Stay in the Loop?"
+    },
+    {
+      "role": "link",
+      "name": "Facebook : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Twitter : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Instagram : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Youtube : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "Linkedin : Open in a New Window"
+    },
+    {
+      "role": "link",
+      "name": "WhatsApp : Open in a New Window"
+    }
+  ]
+}
